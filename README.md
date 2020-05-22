@@ -20,6 +20,5 @@ These are the different approaches we explore to get the netowrk to mis-classify
 
 These are two recently published pieces of research we examine which can fool a convolutional neural network:
 
-* [Jiawei Su, Danilo Vasconcellos Vargas, Sakurai Kouichi, One pixel attack] (https://arxiv.org/abs/1710.08864)
-* [Tom B. Brown, Dandelion Mané, Aurko Roy, Martín Abadi, Justin Gilmer, Adversarial Patch] (https://arxiv.org/abs/1712.09665)
-
+* [Jiawei Su, Danilo Vasconcellos Vargas, Sakurai Kouichi, One pixel attack](https://arxiv.org/abs/1710.08864)
+* [Tom B. Brown, Dandelion Mané, Aurko Roy, Martín Abadi, Justin Gilmer, Adversarial Patch](https://arxiv.org/abs/1712.09665)
